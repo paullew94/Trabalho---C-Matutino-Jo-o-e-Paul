@@ -3,10 +3,13 @@ id INT PRIMARY KEY IDENTITY(1,1),
 nome VARCHAR(50),
 sigla VARCHAR(2)
 );
+
+
 CREATE TABLE cidades(
 id INT PRIMARY KEY IDENTITY(1,1),
 id_estado INT,
 FOREIGN KEY(id_estado) REFERENCES estados(id),
+
 nome VARCHAR(50),
 numero_habitantes INT
 );
@@ -18,6 +21,7 @@ cidades.id_estado AS 'CidadeIdEstado',
 estados.nome AS'EstadoNome'
 FROM cidades INNER JOIN estados ON (cidades.id_estado = estados.id);
 
+DROP TABLE clientes;
 CREATE TABLE clientes(
 id INT PRIMARY KEY IDENTITY(1,1),
 id_cidade INT,
@@ -37,8 +41,12 @@ clientes.cpf AS 'ClienteCpf',
 clientes.data_nascimento AS 'ClienteDataNascimento',
 clientes.numero AS 'ClienteNumero',
 clientes.complemento AS 'ClienteComplemento',
-clientes.lougradouro AS 'ClienteLougradouro',
+clientes.logradouro AS 'ClienteLogradouro',
 clientes.cep AS 'ClienteCep',
 clientes.id_cidade AS 'ClienteIdCidade',
-clientes.nome AS'ClienteNome'
+cidades.nome AS'CidadeNome'
 FROM clientes INNER JOIN cidades ON (clientes.id_cidade = cidades.id);
+
+SELECT*FROM cidades;
+
+SELECT * FROM estados;

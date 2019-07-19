@@ -188,6 +188,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\CidadeController.cs" />
+    <Compile Include="Controllers\ClienteController.cs" />
+    <Compile Include="Controllers\EstadoController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -218,8 +221,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Scripts\index.d.ts" />
@@ -232,9 +233,9 @@
       <Project>{e8efc52c-d743-4097-b32b-642c22ceb531}</Project>
       <Name>Model</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Repoisitory\Repoisitory.csproj">
+    <ProjectReference Include="..\Repoisitory\Repository.csproj">
       <Project>{9cf596ef-890e-43f7-90b1-b27d671d39e0}</Project>
-      <Name>Repoisitory</Name>
+      <Name>Repository</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

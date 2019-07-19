@@ -1,0 +1,9 @@
+C:\Users\João\Documents\GitHub\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\bin\Debug\Repoisitory.dll
+C:\Users\João\Documents\GitHub\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\bin\Debug\Repoisitory.pdb
+C:\Users\João\Documents\GitHub\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\bin\Debug\Model.dll
+C:\Users\João\Documents\GitHub\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\bin\Debug\Model.pdb
+C:\Users\João\Documents\GitHub\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\obj\Debug\Repoisitory.csprojAssemblyReference.cache
+C:\Users\João\Documents\GitHub\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\obj\Debug\Repoisitory.csproj.CoreCompileInputs.cache
+C:\Users\João\Documents\GitHub\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\obj\Debug\Repoisitory.csproj.CopyComplete
+C:\Users\João\Documents\GitHub\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\obj\Debug\Repoisitory.dll
+C:\Users\João\Documents\GitHub\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\obj\Debug\Repoisitory.pdb

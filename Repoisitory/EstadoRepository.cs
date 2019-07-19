@@ -34,9 +34,9 @@ namespace Repoisitory
         public int Inserir(Estado estado)
         {
             SqlCommand comando = conexao.Conectar();
-            comando.CommandText = @"INSERT INTO estados (nome,sigla) OUTPUT INSERTED.ID VALUES (@NOME,@SIGLA)";
-            comando.Parameters.AddWithValue("@NOME", estado.Nome);
-            comando.Parameters.AddWithValue("@SIGLA", estado.Sigla);
+            comando.CommandText = @"INSERT INTO estados (nome,sigla) OUTPUT INSERTED.ID VALUES (@NOME, @SIGLA)";
+            comando.Parameters.AddWithValue("@NOME",estado.Nome);
+            comando.Parameters.AddWithValue("@SIGLA",estado.Sigla);
             int id = Convert.ToInt32(comando.ExecuteScalar());
             comando.Connection.Close();
             return id;
@@ -64,10 +64,13 @@ namespace Repoisitory
         public bool Alterar(Estado estado)
         {
             SqlCommand comando = conexao.Conectar();
-            comando.CommandText = "UPDATE estados SET nome = @NOME WHERE @ID = id";
+            comando.CommandText = @"UPDATE estados SET 
+nome = @NOME, 
+sigla = @SIGLA 
+WHERE id = @Id";
             comando.Parameters.AddWithValue("@NOME", estado.Nome);
-            comando.Parameters.AddWithValue("@ID", estado.Id);
             comando.Parameters.AddWithValue("@SIGLA", estado.Sigla);
+            comando.Parameters.AddWithValue("@ID", estado.Id);
             int quantidadeAfetada = comando.ExecuteNonQuery();
             comando.Connection.Close();
             return quantidadeAfetada == 1;

@@ -1,0 +1,36 @@
+C:\Users\João\Documents\GitHub\Trabalho-de-Ferias\Trabalho de ferias\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\João\Documents\GitHub\Trabalho-de-Ferias\Trabalho de ferias\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\João\Documents\GitHub\Trabalho-de-Ferias\Trabalho de ferias\Repository\bin\Debug\Repository.dll
+C:\Users\João\Documents\GitHub\Trabalho-de-Ferias\Trabalho de ferias\Repository\bin\Debug\Repository.pdb
+C:\Users\João\Documents\GitHub\Trabalho-de-Ferias\Trabalho de ferias\Repository\bin\Debug\Model.dll
+C:\Users\João\Documents\GitHub\Trabalho-de-Ferias\Trabalho de ferias\Repository\bin\Debug\Model.pdb
+C:\Users\João\Documents\GitHub\Trabalho-de-Ferias\Trabalho de ferias\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\João\Documents\GitHub\Trabalho-de-Ferias\Trabalho de ferias\Repository\obj\Debug\Repository.dll
+C:\Users\João\Documents\GitHub\Trabalho-de-Ferias\Trabalho de ferias\Repository\obj\Debug\Repository.pdb
+C:\Users\Usuario\Downloads\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\bin\Debug\Repoisitory.dll
+C:\Users\Usuario\Downloads\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\bin\Debug\Repoisitory.pdb
+C:\Users\Usuario\Downloads\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\bin\Debug\Model.dll
+C:\Users\Usuario\Downloads\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\bin\Debug\Model.pdb
+C:\Users\Usuario\Downloads\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Usuario\Downloads\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\obj\Debug\Repoisitory.dll
+C:\Users\Usuario\Downloads\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\obj\Debug\Repoisitory.pdb
+C:\Users\Usuario\Desktop\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\bin\Debug\Repoisitory.dll
+C:\Users\Usuario\Desktop\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\bin\Debug\Repoisitory.pdb
+C:\Users\Usuario\Desktop\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\bin\Debug\Model.dll
+C:\Users\Usuario\Desktop\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\bin\Debug\Model.pdb
+C:\Users\Usuario\Desktop\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\obj\Debug\Repoisitory.dll
+C:\Users\Usuario\Desktop\Trabalho---C-Matutino-Jo-o-e-Paul\Repoisitory\obj\Debug\Repoisitory.pdb
+C:\Users\Usuario\Desktop\patre oficial\Repoisitory\bin\Debug\Repoisitory.dll
+C:\Users\Usuario\Desktop\patre oficial\Repoisitory\bin\Debug\Repoisitory.pdb
+C:\Users\Usuario\Desktop\patre oficial\Repoisitory\bin\Debug\Model.dll
+C:\Users\Usuario\Desktop\patre oficial\Repoisitory\bin\Debug\Model.pdb
+C:\Users\Usuario\Desktop\patre oficial\Repoisitory\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\patre oficial\Repoisitory\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\patre oficial\Repoisitory\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Usuario\Desktop\patre oficial\Repoisitory\obj\Debug\Repoisitory.dll
+C:\Users\Usuario\Desktop\patre oficial\Repoisitory\obj\Debug\Repoisitory.pdb

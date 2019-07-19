@@ -3,5 +3,87 @@
     ViewBag.Title = "Cadastro";
 }
 
-<h2>Cadastro</h2>
+<h2>Cadastro de clientes</h2>
+
+<form method="post" action="/cliente/store">
+    <div class="row">
+        <div class="col-12">
+            <div class="form-group">
+                <label for="campo-nome">Nome</label>
+                <input type="text" name="nome" id="campo-nome" class="form-control" />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="form-group">
+                <label form="campo-cidade">Cidade</label>
+                <select class="form-control" name="cidade">
+                    <option disabled="disabled" selected="selected">Selecione uma cidade</option>
+                    @foreach (Model.Cidade cidade in ViewBag.Cidades)
+                    {
+                        <option value="@cidade.Id">@cidade.Nome</option>
+                    }
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="form-group">
+                <label for="campo-cpf">CPF</label>
+                <input type="text" name="cpf" id="campo-cpf" class="form-control" />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="form-group">
+                <label for="campo-dataNascimento">Data de Nascimento</label>
+                <input type="text" name="dataNascimento" id="campo-dataNascimento" class="form-control" />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="form-group">
+                <label for="campo-numero">Numero</label>
+                <input type="text" name="numero" id="campo-numero" class="form-control" />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="form-group">
+                <label for="campo-complemento">Complemento</label>
+                <input type="text" name="complemento" id="campo-complemento" class="form-control" />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="form-group">
+                <label for="campo-logradouro">Logradouro</label>
+                <input type="text" name="logradouro" id="campo-logradouro" class="form-control" />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="form-group">
+                <label for="campo-cep">CEP</label>
+                <input type="text" name="cep" id="campo-cep" class="form-control" />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <button type="submit" class="btn btn-success float-right">
+                Salvar
+            </button>
+        </div>
+    </div>
+
+</form>
+
 

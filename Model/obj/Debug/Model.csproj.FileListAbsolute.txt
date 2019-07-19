@@ -1,0 +1,24 @@
+C:\Users\João\Documents\GitHub\Trabalho-de-Ferias\Trabalho de ferias\Model\bin\Debug\Model.dll
+C:\Users\João\Documents\GitHub\Trabalho-de-Ferias\Trabalho de ferias\Model\bin\Debug\Model.pdb
+C:\Users\João\Documents\GitHub\Trabalho-de-Ferias\Trabalho de ferias\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\João\Documents\GitHub\Trabalho-de-Ferias\Trabalho de ferias\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\João\Documents\GitHub\Trabalho-de-Ferias\Trabalho de ferias\Model\obj\Debug\Model.dll
+C:\Users\João\Documents\GitHub\Trabalho-de-Ferias\Trabalho de ferias\Model\obj\Debug\Model.pdb
+C:\Users\João\Documents\GitHub\Trabalho---C-Matutino-Jo-o-e-Paul\Model\bin\Debug\Model.dll
+C:\Users\João\Documents\GitHub\Trabalho---C-Matutino-Jo-o-e-Paul\Model\bin\Debug\Model.pdb
+C:\Users\João\Documents\GitHub\Trabalho---C-Matutino-Jo-o-e-Paul\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\João\Documents\GitHub\Trabalho---C-Matutino-Jo-o-e-Paul\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\João\Documents\GitHub\Trabalho---C-Matutino-Jo-o-e-Paul\Model\obj\Debug\Model.dll
+C:\Users\João\Documents\GitHub\Trabalho---C-Matutino-Jo-o-e-Paul\Model\obj\Debug\Model.pdb
+C:\Users\Usuario\Downloads\Trabalho---C-Matutino-Jo-o-e-Paul\Model\bin\Debug\Model.dll
+C:\Users\Usuario\Downloads\Trabalho---C-Matutino-Jo-o-e-Paul\Model\bin\Debug\Model.pdb
+C:\Users\Usuario\Downloads\Trabalho---C-Matutino-Jo-o-e-Paul\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\Trabalho---C-Matutino-Jo-o-e-Paul\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Trabalho---C-Matutino-Jo-o-e-Paul\Model\obj\Debug\Model.dll
+C:\Users\Usuario\Downloads\Trabalho---C-Matutino-Jo-o-e-Paul\Model\obj\Debug\Model.pdb
+C:\Users\Usuario\Desktop\patre oficial\Model\bin\Debug\Model.dll
+C:\Users\Usuario\Desktop\patre oficial\Model\bin\Debug\Model.pdb
+C:\Users\Usuario\Desktop\patre oficial\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\patre oficial\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\patre oficial\Model\obj\Debug\Model.dll
+C:\Users\Usuario\Desktop\patre oficial\Model\obj\Debug\Model.pdb
